@@ -55,9 +55,9 @@ header {
 
 .navigation__menu {
   display: flex;
-  max-width: 533px;
+  width: 533px;
   align-items: center;
-  gap: 30px;
+  justify-content: space-between;
 }
 
 main {
